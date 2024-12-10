@@ -1,0 +1,16 @@
+1 Apple
+2 Pears
+3 Plums
+4 Strawberries
+5 Oranges
+1 Piece of Cake
+1 Ice-Cream Cone
+1 Pickle
+1 Slice of Swiss-Cheese
+1 Slice of Salami
+1 Lolipop
+1 Piece of Cherry Pie
+1 Sausage
+1 Cupcake
+1 Slice of Watermelon
+1 Nice Green Leaf
